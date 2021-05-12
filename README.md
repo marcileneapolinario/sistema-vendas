@@ -20,5 +20,6 @@ ou inativos, caso esteja inativo o admin tem a opção de excluir o usuário).
 
 - **CodeIgniter 3** com a versão 7 do php (A versão 3 da framework tem incompatibilidade com a versão 8 do php);
 - Plugin ion_auth,
-- Biblioteca form_validation.
+- Biblioteca form_validation,
+- Migrations.
 
