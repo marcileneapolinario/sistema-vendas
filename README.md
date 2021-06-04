@@ -36,20 +36,15 @@ senha: password
 
 ## Integrantes do grupo
 
-Alessandra da Silva Ramos 
-RA: 2219202575
+Alessandra da Silva Ramos - RA: 2219202575
 
-Christian Barbosa Primo
-RA: 2219203256
+Christian Barbosa Primo - RA: 2219203256
 
-Giovani Conceição
-RA: 2219204738
+Giovani Conceição - RA: 2219204738
 
-Marcilene Apolinário Alexandre
-RA: 2219203255
+Marcilene Apolinário Alexandre - RA: 2219203255
 
-Rafael de Souza e Silva
-RA: 2219203908
+Rafael de Souza e Silva - RA: 2219203908
 
 
 
