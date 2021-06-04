@@ -25,7 +25,7 @@ ou inativos, caso esteja inativo o admin tem a opção de excluir o usuário).
 
 ## Endereço do sistema Web
 
-Link: https://martsistemas.000webhostapp.com/
+Link: https://martsistemas.000webhostapp.com
 
 **Dados da conta para login no sistema:**
 
